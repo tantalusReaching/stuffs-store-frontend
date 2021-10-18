@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Build directory
+build/
+
+# Misc
+misc/
+
+# Images
+public/images/
+
+# Firebase config
+src/firebase.config.js
